@@ -1,0 +1,32 @@
+{
+  "name": "ormus-explore",
+  "version": "1.0.0",
+  "description": "Token-optimized structural code search using tree-sitter AST parsing. 4-8x savings vs Read.",
+  "author": "Diego Bodart / Ormus.Solutions",
+  "license": "MIT",
+  "homepage": "https://github.com/HermeticOrmus/ormus-explore",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HermeticOrmus/ormus-explore.git"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "anthropic",
+    "ai-agents",
+    "skills",
+    "code-search",
+    "ast",
+    "tree-sitter",
+    "ormus"
+  ],
+  "skills": [
+    {
+      "name": "smart-explore",
+      "path": "SKILL.md"
+    }
+  ],
+  "requires": {
+    "mcp": ["tree-sitter"]
+  }
+}
