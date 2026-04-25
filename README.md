@@ -92,8 +92,9 @@ That's it. No globbing, no full-file reads, no scanning hundreds of lines to fin
 ## Pairs with
 
 - **[ormus-handoff](https://github.com/HermeticOrmus/ormus-handoff)** — capture session state before context limits.
-- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** *(coming soon)* — restore context from a HANDOFF file.
+- **[ormus-pickup](https://github.com/HermeticOrmus/ormus-pickup)** — restore context from a HANDOFF file.
 - **[ormus-absorb](https://github.com/HermeticOrmus/ormus-absorb)** — distill conversation knowledge into persistent memory.
+- **[ormus-vibe-proof](https://github.com/HermeticOrmus/ormus-vibe-proof)** — security hardening for vibe-coded full-stack apps.
 - **[ormus-meta-prompting](https://github.com/HermeticOrmus/ormus-meta-prompting)** — categorical foundations for AI prompt engineering.
 
 Together they form the **ormus session lifecycle** — composable Claude Code skills for doing serious work across days, machines, and context resets.
@@ -104,4 +105,4 @@ MIT. See [LICENSE](LICENSE).
 
 ## Origin
 
-Distilled from real Claude Code sessions on large codebases (40+ repos, 1M+ lines aggregate). Built around the tree-sitter MCP because AST-precise symbol boundaries beat regex-precise text matches every time.
+Distilled from real Claude Code sessions on large polyrepo codebases. Built around the tree-sitter MCP because AST-precise symbol boundaries beat regex-precise text matches every time.
