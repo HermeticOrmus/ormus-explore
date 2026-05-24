@@ -1,3 +1,14 @@
+> **Note (2026-05-23) — Consolidated into LibreSessionFlow**
+>
+> This standalone has been folded into the umbrella repo
+> [LibreSessionFlow-Claude-Code](https://github.com/HermeticOrmus/LibreSessionFlow-Claude-Code),
+> alongside 9 sibling session-lifecycle plugins. The current version of this
+> functionality lives at `plugins/explore/` in the umbrella.
+>
+> This repo remains live as a landing page. New work happens in the umbrella.
+
+---
+
 # ormus-explore
 
 > Token-optimized structural code search for Claude Code. Stop reading whole files — get the map first.
