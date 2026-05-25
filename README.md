@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://ormus.solutions/mascot/pixellab_liquid_to_compass.gif" alt="ormus-explore" width="128" style="image-rendering: pixelated;" />
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-explore" width="128" style="image-rendering: pixelated;" />
 </p>
 
 <h1 align="center">ormus-explore</h1>
