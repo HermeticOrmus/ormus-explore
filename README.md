@@ -9,9 +9,26 @@
 
 ---
 
-# ormus-explore
+<p align="center">
+  <img src="https://ormus.solutions/mascot/chain_braces_to_swan.gif" alt="ormus-explore" width="128" style="image-rendering: pixelated;" />
+</p>
 
-> Token-optimized structural code search for Claude Code. Stop reading whole files — get the map first.
+<h1 align="center">ormus-explore</h1>
+
+<p align="center">
+  <em>Token-optimized AST-based code search for Claude Code. 4-8x cheaper than reading full files.</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/HermeticOrmus/ormus-explore/stargazers"><img src="https://img.shields.io/github/stars/HermeticOrmus/ormus-explore?style=flat-square&color=aa8142" alt="Stars" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-explore/blob/main/LICENSE"><img src="https://img.shields.io/github/license/HermeticOrmus/ormus-explore?style=flat-square&color=aa8142" alt="License" /></a>
+  <a href="https://github.com/HermeticOrmus/ormus-explore/commits"><img src="https://img.shields.io/github/last-commit/HermeticOrmus/ormus-explore?style=flat-square&color=aa8142" alt="Last Commit" /></a>
+  <img src="https://img.shields.io/badge/Claude_Code-aa8142?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+</p>
+
+---
+
+> **Token-optimized structural code search for Claude Code. Stop reading whole files — get the map first.**
 
 A Claude Code skill that swaps the default `Read → Grep → Glob` exploration cycle for AST-based structural search powered by tree-sitter MCP. Save 4-8x tokens on file understanding and 11-18x on codebase-wide exploration.
 
